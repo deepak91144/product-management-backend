@@ -4,7 +4,7 @@
 
 #Make sure you have node installed in your computer
 
-#make sure your internet is on because database is connecting through internet
+# Make sure your internet is on because database is connecting through internet
 
 #Go to the root path of this project in command prompt and type the command
 
